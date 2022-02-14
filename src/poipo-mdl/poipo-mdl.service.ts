@@ -5,7 +5,7 @@ import { Poipo } from './entities/poipo.entity';
 export class PoipoMdlService {
     private poipoDB: Poipo[] = [
         {
-            id: 1,
+            //id: 1,
             name: "Poipo",
             position: "Black Anbu",
             skilss: ["Rasenggang", "Amaterasu"]
